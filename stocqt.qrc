@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>content/Button.qml</file>
+        <file>content/CheckBox.qml</file>
+        <file>content/StockChart.qml</file>
+        <file>content/StockInfo.qml</file>
+        <file>content/StockListModel.qml</file>
+        <file>content/StockListView.qml</file>
+        <file>content/StockModel.qml</file>
+        <file>content/StockSettingsPanel.qml</file>
+        <file>content/StockView.qml</file>
+        <file>content/images/icon-left-arrow.png</file>
+        <file>content/images/wheel.png</file>
+        <file>content/images/wheel-touch.png</file>
+        <file>stocqt.qml</file>
+        <file>content/SysBtn.qml</file>
+        <file>content/SysBtnGroup.qml</file>
+        <file>content/images/close_hover.png</file>
+        <file>content/images/close_normal.png</file>
+        <file>content/images/close_pressed.png</file>
+        <file>content/images/min_hover.png</file>
+        <file>content/images/min_normal.png</file>
+        <file>content/images/min_pressed.png</file>
+    </qresource>
+</RCC>

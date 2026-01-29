@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mcuisp/Cmain.qml</file>
+        <file>mcuisp/CMenuBar.qml</file>
+        <file>mcuisp/CDialog.qml</file>
+        <file>mcuisp/CPopupInput.qml</file>
+        <file>mcuisp/CPopupReadMemorySetting.qml</file>
+        <file>mcuisp/CPopupEraseSetting.qml</file>
+        <file>mcuisp/CPopupWriteProtected.qml</file>
+        <file>mcuisp/CButton.qml</file>
+        <file>mcuisp/images/btn_disabled.png</file>
+        <file>mcuisp/images/btn_hover.png</file>
+        <file>mcuisp/images/btn_normal.png</file>
+        <file>mcuisp/images/btn_pressed.png</file>
+        <file>mcuisp/images/selectDobot_pressed.png</file>
+    </qresource>
+</RCC>
